@@ -14,3 +14,5 @@ The second problem was detection of diabetic retinopathy. The eye images of 264Ã
 
 ## Third Problem
 The third problem was brain tumour segmentation, again the dataset is available on Kaggle. The MRI images were given along with their marks, green for edema and red for tumour. The Unet model was implemented.
+
+### Here only codes are given and result discussion is not provided. 
